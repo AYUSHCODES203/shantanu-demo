@@ -1,3 +1,4 @@
 # shantanu-demo
 This is my first Git Repository
-Auther - shantanu Avhad
+<br>
+Auther - shantanu Avhad(Shan Software)
